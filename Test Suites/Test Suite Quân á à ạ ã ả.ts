@@ -23,4 +23,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Folder 1/TestCase Quân á à ạ ã ả</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>74caf8d3-c31e-4485-8c07-aa5a316c1715</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Folder 2/Tiếng Tàu nè 我爱你</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a54d76a2-199f-413e-b812-7c81b728c6dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Folder 2/Tiếng Tàu nè 我爱你</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
